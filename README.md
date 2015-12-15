@@ -12,3 +12,7 @@ List of few inbuilt capabilities may be
 * SLAM
 
 Roadmap folder contains more information on the timeline of the project.
+
+# Architecture
+
+<img src="./architecture/aios.jpg"/>
