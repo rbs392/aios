@@ -2,3 +2,6 @@ src/optimus/iso/*
 src/optimus/*.iso
 src/optimus/*.o
 src/optimus/*.elf
+src/optimus/*/*.bin
+src/optimus/*/*.iso
+src/optimus/*/*.img
